@@ -73,7 +73,7 @@ You'll see a table of skill mentions and suggestions to improve.
 resume-analyzer/
 ├── analyzer.py       # Logic for text extraction & skill analysis
 ├── main.py           # CLI entrypoint
-├── sample_resume.pdf # (Optional) Sample resume to test
+├── sample_resume.pdf # Sample resume to test
 ├── screenshot.png    # Example output
 └── README.md
 ```
